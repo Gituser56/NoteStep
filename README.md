@@ -1,2 +1,2 @@
 # NoteStep
-NoteStep | Your Notes, Made Simpler
+NoteStep | Your Notes, Simplified.
